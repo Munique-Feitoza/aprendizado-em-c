@@ -1,0 +1,14 @@
+# Ignorar arquivos e pastas de build do Code::Blocks
+bin/
+obj/
+*.layout
+
+# Executáveis e arquivos compilados
+*.exe
+*.o
+*.obj
+*.depend
+
+# Backups e arquivos do projeto
+*.cbp.*
+*.log
