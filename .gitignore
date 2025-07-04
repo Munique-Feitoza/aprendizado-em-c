@@ -1,14 +1,17 @@
-# Ignorar arquivos e pastas de build do Code::Blocks
+# Ignorar pasta de configurações do VS Code
+.vscode/
+
+# Ignorar arquivos de debug do Code::Blocks (caso ainda use)
 bin/
 obj/
 *.layout
-
-# Executáveis e arquivos compilados
-*.exe
-*.o
-*.obj
 *.depend
 
-# Backups e arquivos do projeto
-*.cbp.*
+# Ignorar arquivos de sistema (caso apareçam no status do Git)
+Thumbs.db
+.DS_Store
+
+# Ignorar arquivos temporários
 *.log
+*.tmp
+*.bak
