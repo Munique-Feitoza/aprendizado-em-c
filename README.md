@@ -40,6 +40,7 @@ Este projeto é um mergulho profundo na computação. Um estudo consciente e di�
 
 Cada pasta representa um estágio do aprendizado:
 
+<<<<<<< HEAD
 | Dia     | Tema                            | Conteúdo                                                                 |
 |---------|----------------------------------|--------------------------------------------------------------------------|
 | [`dia 1/`](./dia%201) | Menu Interativo                 | Uso de `do-while`, `if`, `scanf()` e `strcmp()`                           |
@@ -49,6 +50,16 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 5/`](./dia%205) | Compiladores: Análise Léxica   | Separação do código em tokens, reconhecimento de léxicos                 |
 | [`dia 6/`](./dia%206) | Análise Sintática e Parsing    | Gramáticas, recursão, ambiguidade, TDP (Top-Down) e BUP (Bottom-Up)     |
 | [`dia 7/`](./dia%207) | Exercícios de Fixação em C     | Exercícios práticos envolvendo entrada/saída, lógica, variáveis e ponteiros |
+=======
+| Pasta   | Tema                            | Conteúdo                                                          |
+|---------|----------------------------------|-------------------------------------------------------------------|
+| `dia 1/` | Menu Interativo                 | Uso de `do-while`, `if`, `scanf()` e `strcmp()`                  |
+| `dia 2/` | Tamanho dos Tipos na Memória   | Estudo com `sizeof()` para `int`, `float`, `char`, `double` etc. |
+| `dia 3/` | Introdução aos Ponteiros       | Conteúdo e endereço de variáveis com ponteiros simples           |
+| `dia 4/` | Ponteiros e Strings            | Iteração com ponteiros, `strlen()` e endereços de caracteres     |
+| `dia 5/` | Compiladores: Análise Léxica | Separação do código em tokens, reconhecimento de léxicos     |
+| `dia 6/` | Análise Sintática e Parsing | Estrutura sintática, gramáticas, derivação, recursão, ambiguidade e TDP/BUP     |
+>>>>>>> 3ba9a2d7153262703ed5745be3b8f74bfb5c308e
 
 ---
 
