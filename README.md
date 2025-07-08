@@ -50,6 +50,7 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 5/`](./dia%205) | Compiladores: Análise Léxica   | Separação do código em tokens, reconhecimento de léxicos                 |
 | [`dia 6/`](./dia%206) | Análise Sintática e Parsing    | Gramáticas, recursão, ambiguidade, TDP (Top-Down) e BUP (Bottom-Up)     |
 | [`dia 7/`](./dia%207) | Exercícios de Fixação em C     | Exercícios práticos envolvendo entrada/saída, lógica, variáveis e ponteiros |
+| [`dia 8/`](./dia%208) | Funções em C                  | Criação, prototipagem e uso de funções matemáticas e lógicas     |
 
 ---
 
