@@ -40,7 +40,6 @@ Este projeto é um mergulho profundo na computação. Um estudo consciente e di�
 
 Cada pasta representa um estágio do aprendizado:
 
-<<<<<<< HEAD
 | Dia     | Tema                            | Conteúdo                                                                 |
 |---------|----------------------------------|--------------------------------------------------------------------------|
 | [`dia 1/`](./dia%201) | Menu Interativo                 | Uso de `do-while`, `if`, `scanf()` e `strcmp()`                           |
@@ -50,8 +49,10 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 5/`](./dia%205) | Compiladores: Análise Léxica   | Separação do código em tokens, reconhecimento de léxicos                 |
 | [`dia 6/`](./dia%206) | Análise Sintática e Parsing    | Gramáticas, recursão, ambiguidade, TDP (Top-Down) e BUP (Bottom-Up)     |
 | [`dia 7/`](./dia%207) | Exercícios de Fixação em C     | Exercícios práticos envolvendo entrada/saída, lógica, variáveis e ponteiros |
-| [`dia 8/`](./dia%208) | Funções em C                  | Criação, prototipagem e uso de funções matemáticas e lógicas     |
-| [`dia 9/`](./dia%209) | Funções em C                  | Criação de funções recursivas e entendendo como funcionam     |
+| [`dia 8/`](./dia%208)   | Funções e Prototipagem           | Criação e uso de funções, boas práticas com *function prototypes*        |
+| [`dia 9/`](./dia%209)   | Recursão: Fundamentos            | Diferença entre recursão direta e inversa, impacto na execução           |
+| [`dia 10/`](./dia%210) | Recursão com Vetores e Binários  | Soma, máximo, inversão de vetores e conversão decimal → binário recursiva |
+
 
 ---
 
