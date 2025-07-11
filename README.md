@@ -51,7 +51,8 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 7/`](./dia%207) | Exercícios de Fixação em C     | Exercícios práticos envolvendo entrada/saída, lógica, variáveis e ponteiros |
 | [`dia 8/`](./dia%208)   | Funções e Prototipagem           | Criação e uso de funções, boas práticas com *function prototypes*        |
 | [`dia 9/`](./dia%209)   | Recursão: Fundamentos            | Diferença entre recursão direta e inversa, impacto na execução           |
-| [`dia 10/`](./dia%210) | Recursão com Vetores e Binários  | Soma, máximo, inversão de vetores e conversão decimal → binário recursiva |
+| [`dia 10/`](./dia%2010) | Recursão com Vetores e Binários  | Soma, máximo, inversão de vetores e conversão decimal → binário recursiva |
+| [`dia 11/`](./dia%2011) | Ponteiros de Ponteiros e Structs | Criação de agenda com `char **`, alocação dinâmica, inversão de nome, `malloc` e `free` |
 
 
 ---
