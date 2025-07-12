@@ -48,6 +48,39 @@ Nesta fase do estudo, aprofundei minha compreensão sobre a análise sintática,
   - Design de linguagens.
 - Ajuda também no domínio de ferramentas como **ANTLR**, **Bison**, **YACC** e **PLY**.
 
+### 📊 Tabela LL(1) – Exemplo com Gramática Simples
+Considere a gramática:
+```
+E  → T E'
+E' → + T E' | ε
+T  → F T'
+T' → * F T' | ε
+F  → ( E ) | id
+```
+
+### 🔍 Conjuntos FIRST e FOLLOW
+| Não Terminal | FIRST | FOLLOW    |
+| ------------ | ----- | --------- |
+| E            | ( id  | ) \$      |
+| E'           | + ε   | ) \$      |
+| T            | ( id  | + ) \$    |
+| T'           | \* ε  | + ) \$    |
+| F            | ( id  | \* + ) \$ |
+
+### 📘 Tabela LL(1)
+|        | id       | +           | \*           | (         | )      | \$     |
+| ------ | -------- | ----------- | ------------ | --------- | ------ | ------ |
+| **E**  | E → T E' |             |              | E → T E'  |        |        |
+| **E'** |          | E' → + T E' |              |           | E' → ε | E' → ε |
+| **T**  | T → F T' |             |              | T → F T'  |        |        |
+| **T'** |          | T' → ε      | T' → \* F T' |           | T' → ε | T' → ε |
+| **F**  | F → id   |             |              | F → ( E ) |        |        |
+
+### 🧠 Explicações:
+- Linhas são não-terminais.
+- Colunas são terminais e o símbolo de final de entrada $.
+- As entradas da tabela indicam qual regra aplicar ao encontrar um terminal no topo da pilha e na entrada.
+
 ---
 
 ## 🧠 Conclusão do Dia
