@@ -54,6 +54,7 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 10/`](./dia%2010) | Recursão com Vetores e Binários  | Soma, máximo, inversão de vetores e conversão decimal → binário recursiva |
 | [`dia 11/`](./dia%2011) | Ponteiros de Ponteiros e Structs | Criação de agenda com `char **`, alocação dinâmica, inversão de nome, `malloc` e `free` |
 | [`dia 12/`](./dia%2012) | Compiladores: LL(1) e First/Follow | Derivação, recursão, fatoração, conjuntos FIRST/FOLLOW e início do parsing bottom-up |
+| [`dia 13/`](./dia%2013) | Lexer Simples | Criação de como funciona um análisador léxico |
 
 
 ---
