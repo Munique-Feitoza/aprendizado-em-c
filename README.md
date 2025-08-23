@@ -54,6 +54,8 @@ Cada pasta representa um estágio do aprendizado:
 | [`dia 10/`](./dia%2010) | Recursão com Vetores e Binários  | Soma, máximo, inversão de vetores e conversão decimal → binário recursiva |
 | [`dia 11/`](./dia%2011) | Ponteiros de Ponteiros e Structs | Criação de agenda com `char **`, alocação dinâmica, inversão de nome, `malloc` e `free` |
 | [`dia 12/`](./dia%2012) | Compiladores: LL(1) e First/Follow | Derivação, recursão, fatoração, conjuntos FIRST/FOLLOW e início do parsing bottom-up |
+| [`dia 13/`](./dia%2013) | Lexer Simples | Criação de como funciona um análisador léxico |
+| [`dia 14/`](./dia%2014) | Exercícios de Fixação: Estruturas Condicionais e Laços de Repetição | Exercícios práticos focados em estruturas condicionais (if, else, switch/case), laços de repetição (for) e manipulação de variáveis, para aprimorar a lógica de programação. |
 
 
 ---
@@ -75,12 +77,12 @@ Cada pasta representa um estágio do aprendizado:
 
 ## 🌊 Filosofia do Projeto
 
-> “Programar é só o começo. Quero entender o que acontece por trás de cada instrução. Cada byte, cada endereço, cada ponteiro — tudo importa.”
+> “Programar é só o começo. Quero entender o que acontece por trás de cada instrução. Cada byte, cada endereço, cada ponteiro... tudo importa.”
 
 Este repositório é parte de um projeto maior: **me tornar uma programadora insubstituível, com profundidade real** — pronta para os desafios das grandes empresas de tecnologia.
 
 ---
 
-📌 Repositório atualizado diariamente  
+📌 Repositório atualizado  
 🖥️ Acompanhe minha evolução também no [LinkedIn](https://www.linkedin.com/in/munique-feitoza-77034b231)  
 ✨ Disciplina, curiosidade e coragem para mergulhar onde poucos se atrevem.
